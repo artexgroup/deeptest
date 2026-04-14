@@ -1,0 +1,112 @@
+[
+  {
+    "filename": "img_69da169beea686.35684826.png",
+    "mode": "potrace",
+    "number_of_paths": 28,
+    "number_of_nodes": 834,
+    "avg_path_length": 29.79,
+    "runtime_ms": 314.68,
+    "output_svg_size": 7093,
+    "status": "ok",
+    "backend_used": "potrace"
+  },
+  {
+    "filename": "img_69da169beea686.35684826.png",
+    "mode": "deepicon",
+    "number_of_paths": 65,
+    "number_of_nodes": 579,
+    "avg_path_length": 8.91,
+    "runtime_ms": 1409.46,
+    "output_svg_size": 21975,
+    "status": "ok",
+    "backend_used": "centerline_color"
+  },
+  {
+    "filename": "img_69dd173feae784.45252810.png",
+    "mode": "potrace",
+    "number_of_paths": 22,
+    "number_of_nodes": 1090,
+    "avg_path_length": 49.55,
+    "runtime_ms": 198.53,
+    "output_svg_size": 9324,
+    "status": "ok",
+    "backend_used": "potrace"
+  },
+  {
+    "filename": "img_69dd173feae784.45252810.png",
+    "mode": "deepicon",
+    "number_of_paths": 38,
+    "number_of_nodes": 511,
+    "avg_path_length": 13.45,
+    "runtime_ms": 623.67,
+    "output_svg_size": 19320,
+    "status": "ok",
+    "backend_used": "centerline_mono"
+  },
+  {
+    "filename": "img_69dd17f21b7e40.49126754.png",
+    "mode": "potrace",
+    "number_of_paths": 33,
+    "number_of_nodes": 1215,
+    "avg_path_length": 36.82,
+    "runtime_ms": 193.17,
+    "output_svg_size": 9894,
+    "status": "ok",
+    "backend_used": "potrace"
+  },
+  {
+    "filename": "img_69dd17f21b7e40.49126754.png",
+    "mode": "deepicon",
+    "number_of_paths": 46,
+    "number_of_nodes": 338,
+    "avg_path_length": 7.35,
+    "runtime_ms": 788.71,
+    "output_svg_size": 12626,
+    "status": "ok",
+    "backend_used": "centerline_mono"
+  },
+  {
+    "filename": "img_69dd17f24e8483.80492977.png",
+    "mode": "potrace",
+    "number_of_paths": 7,
+    "number_of_nodes": 440,
+    "avg_path_length": 62.86,
+    "runtime_ms": 182.91,
+    "output_svg_size": 4169,
+    "status": "ok",
+    "backend_used": "potrace"
+  },
+  {
+    "filename": "img_69dd17f24e8483.80492977.png",
+    "mode": "deepicon",
+    "number_of_paths": 11,
+    "number_of_nodes": 240,
+    "avg_path_length": 21.82,
+    "runtime_ms": 354.07,
+    "output_svg_size": 9252,
+    "status": "ok",
+    "backend_used": "centerline_mono"
+  },
+  {
+    "filename": "img_69dd17f2c97191.42892132.png",
+    "mode": "potrace",
+    "number_of_paths": 15,
+    "number_of_nodes": 459,
+    "avg_path_length": 30.6,
+    "runtime_ms": 174.39,
+    "output_svg_size": 4171,
+    "status": "ok",
+    "backend_used": "potrace"
+  },
+  {
+    "filename": "img_69dd17f2c97191.42892132.png",
+    "mode": "deepicon",
+    "number_of_paths": 13,
+    "number_of_nodes": 199,
+    "avg_path_length": 15.31,
+    "runtime_ms": 493.52,
+    "output_svg_size": 7834,
+    "status": "ok",
+    "backend_used": "centerline_mono"
+  }
+]
