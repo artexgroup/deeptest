@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "img_69da169beea686.35684826.png",
+    "backend": "potrace",
+    "speed_ms": 203.92,
+    "node_count": 834,
+    "path_count": 28,
+    "smoothness": 19.9,
+    "duplicate_points": 0,
+    "svg_filesize": 7093
+  },
+  {
+    "filename": "img_69da169beea686.35684826.png",
+    "backend": "fallback_contour",
+    "speed_ms": 167.68,
+    "node_count": 1467,
+    "path_count": 30,
+    "smoothness": 35.1,
+    "duplicate_points": 0,
+    "svg_filesize": 21909
+  },
+  {
+    "filename": "img_69dd173feae784.45252810.png",
+    "backend": "potrace",
+    "speed_ms": 158.78,
+    "node_count": 1090,
+    "path_count": 22,
+    "smoothness": 15.98,
+    "duplicate_points": 1,
+    "svg_filesize": 9324
+  },
+  {
+    "filename": "img_69dd173feae784.45252810.png",
+    "backend": "fallback_contour",
+    "speed_ms": 155.09,
+    "node_count": 1399,
+    "path_count": 22,
+    "smoothness": 19.51,
+    "duplicate_points": 0,
+    "svg_filesize": 20522
+  },
+  {
+    "filename": "img_69dd17f21b7e40.49126754.png",
+    "backend": "potrace",
+    "speed_ms": 159.15,
+    "node_count": 1215,
+    "path_count": 33,
+    "smoothness": 19.85,
+    "duplicate_points": 1,
+    "svg_filesize": 9894
+  },
+  {
+    "filename": "img_69dd17f21b7e40.49126754.png",
+    "backend": "fallback_contour",
+    "speed_ms": 147.51,
+    "node_count": 1701,
+    "path_count": 33,
+    "smoothness": 23.19,
+    "duplicate_points": 2,
+    "svg_filesize": 25279
+  },
+  {
+    "filename": "img_69dd17f24e8483.80492977.png",
+    "backend": "potrace",
+    "speed_ms": 145.41,
+    "node_count": 440,
+    "path_count": 7,
+    "smoothness": 13.7,
+    "duplicate_points": 0,
+    "svg_filesize": 4169
+  },
+  {
+    "filename": "img_69dd17f24e8483.80492977.png",
+    "backend": "fallback_contour",
+    "speed_ms": 162.65,
+    "node_count": 503,
+    "path_count": 8,
+    "smoothness": 23.21,
+    "duplicate_points": 0,
+    "svg_filesize": 7454
+  },
+  {
+    "filename": "img_69dd17f2c97191.42892132.png",
+    "backend": "potrace",
+    "speed_ms": 172.74,
+    "node_count": 459,
+    "path_count": 15,
+    "smoothness": 18.81,
+    "duplicate_points": 0,
+    "svg_filesize": 4171
+  },
+  {
+    "filename": "img_69dd17f2c97191.42892132.png",
+    "backend": "fallback_contour",
+    "speed_ms": 139.87,
+    "node_count": 816,
+    "path_count": 15,
+    "smoothness": 24.39,
+    "duplicate_points": 0,
+    "svg_filesize": 12171
+  }
+]
