@@ -5,7 +5,7 @@
     "number_of_paths": 28,
     "number_of_nodes": 834,
     "avg_path_length": 29.79,
-    "runtime_ms": 180.89,
+    "runtime_ms": 208.55,
     "output_svg_size": 7093,
     "status": "ok",
     "backend_used": "potrace"
@@ -13,11 +13,11 @@
   {
     "filename": "img_69da169beea686.35684826.png",
     "mode": "deepicon",
-    "number_of_paths": 30,
-    "number_of_nodes": 1467,
-    "avg_path_length": 48.9,
-    "runtime_ms": 154.63,
-    "output_svg_size": 21909,
+    "number_of_paths": 29,
+    "number_of_nodes": 1622,
+    "avg_path_length": 55.93,
+    "runtime_ms": 378.55,
+    "output_svg_size": 21299,
     "status": "ok",
     "backend_used": "fallback_contour"
   },
@@ -27,7 +27,7 @@
     "number_of_paths": 22,
     "number_of_nodes": 1090,
     "avg_path_length": 49.55,
-    "runtime_ms": 155.09,
+    "runtime_ms": 148.64,
     "output_svg_size": 9324,
     "status": "ok",
     "backend_used": "potrace"
@@ -38,8 +38,8 @@
     "number_of_paths": 22,
     "number_of_nodes": 1399,
     "avg_path_length": 63.59,
-    "runtime_ms": 143.98,
-    "output_svg_size": 20522,
+    "runtime_ms": 295.28,
+    "output_svg_size": 17955,
     "status": "ok",
     "backend_used": "fallback_contour"
   },
@@ -49,7 +49,7 @@
     "number_of_paths": 33,
     "number_of_nodes": 1215,
     "avg_path_length": 36.82,
-    "runtime_ms": 164.36,
+    "runtime_ms": 117.07,
     "output_svg_size": 9894,
     "status": "ok",
     "backend_used": "potrace"
@@ -60,8 +60,8 @@
     "number_of_paths": 33,
     "number_of_nodes": 1701,
     "avg_path_length": 51.55,
-    "runtime_ms": 145.4,
-    "output_svg_size": 25279,
+    "runtime_ms": 185.68,
+    "output_svg_size": 21880,
     "status": "ok",
     "backend_used": "fallback_contour"
   },
@@ -71,7 +71,7 @@
     "number_of_paths": 7,
     "number_of_nodes": 440,
     "avg_path_length": 62.86,
-    "runtime_ms": 147.46,
+    "runtime_ms": 127.09,
     "output_svg_size": 4169,
     "status": "ok",
     "backend_used": "potrace"
@@ -82,8 +82,8 @@
     "number_of_paths": 8,
     "number_of_nodes": 503,
     "avg_path_length": 62.88,
-    "runtime_ms": 138.45,
-    "output_svg_size": 7454,
+    "runtime_ms": 248.85,
+    "output_svg_size": 6622,
     "status": "ok",
     "backend_used": "fallback_contour"
   },
@@ -93,7 +93,7 @@
     "number_of_paths": 15,
     "number_of_nodes": 459,
     "avg_path_length": 30.6,
-    "runtime_ms": 152.22,
+    "runtime_ms": 133.63,
     "output_svg_size": 4171,
     "status": "ok",
     "backend_used": "potrace"
@@ -104,8 +104,8 @@
     "number_of_paths": 15,
     "number_of_nodes": 816,
     "avg_path_length": 54.4,
-    "runtime_ms": 138.66,
-    "output_svg_size": 12171,
+    "runtime_ms": 220.95,
+    "output_svg_size": 10988,
     "status": "ok",
     "backend_used": "fallback_contour"
   }
