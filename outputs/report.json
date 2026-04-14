@@ -5,7 +5,7 @@
     "number_of_paths": 28,
     "number_of_nodes": 834,
     "avg_path_length": 29.79,
-    "runtime_ms": 282.35,
+    "runtime_ms": 180.89,
     "output_svg_size": 7093,
     "status": "ok",
     "backend_used": "potrace"
@@ -13,13 +13,13 @@
   {
     "filename": "img_69da169beea686.35684826.png",
     "mode": "deepicon",
-    "number_of_paths": 209,
-    "number_of_nodes": 836,
-    "avg_path_length": 4.0,
-    "runtime_ms": 241.14,
-    "output_svg_size": 23439,
+    "number_of_paths": 30,
+    "number_of_nodes": 1467,
+    "avg_path_length": 48.9,
+    "runtime_ms": 154.63,
+    "output_svg_size": 21909,
     "status": "ok",
-    "backend_used": "fallback_skeleton"
+    "backend_used": "fallback_contour"
   },
   {
     "filename": "img_69dd173feae784.45252810.png",
@@ -27,7 +27,7 @@
     "number_of_paths": 22,
     "number_of_nodes": 1090,
     "avg_path_length": 49.55,
-    "runtime_ms": 164.85,
+    "runtime_ms": 155.09,
     "output_svg_size": 9324,
     "status": "ok",
     "backend_used": "potrace"
@@ -35,13 +35,13 @@
   {
     "filename": "img_69dd173feae784.45252810.png",
     "mode": "deepicon",
-    "number_of_paths": 586,
-    "number_of_nodes": 2344,
-    "avg_path_length": 4.0,
-    "runtime_ms": 143.86,
-    "output_svg_size": 65165,
+    "number_of_paths": 22,
+    "number_of_nodes": 1399,
+    "avg_path_length": 63.59,
+    "runtime_ms": 143.98,
+    "output_svg_size": 20522,
     "status": "ok",
-    "backend_used": "fallback_skeleton"
+    "backend_used": "fallback_contour"
   },
   {
     "filename": "img_69dd17f21b7e40.49126754.png",
@@ -49,7 +49,7 @@
     "number_of_paths": 33,
     "number_of_nodes": 1215,
     "avg_path_length": 36.82,
-    "runtime_ms": 155.06,
+    "runtime_ms": 164.36,
     "output_svg_size": 9894,
     "status": "ok",
     "backend_used": "potrace"
@@ -57,13 +57,13 @@
   {
     "filename": "img_69dd17f21b7e40.49126754.png",
     "mode": "deepicon",
-    "number_of_paths": 419,
-    "number_of_nodes": 1676,
-    "avg_path_length": 4.0,
-    "runtime_ms": 142.44,
-    "output_svg_size": 46507,
+    "number_of_paths": 33,
+    "number_of_nodes": 1701,
+    "avg_path_length": 51.55,
+    "runtime_ms": 145.4,
+    "output_svg_size": 25279,
     "status": "ok",
-    "backend_used": "fallback_skeleton"
+    "backend_used": "fallback_contour"
   },
   {
     "filename": "img_69dd17f24e8483.80492977.png",
@@ -71,7 +71,7 @@
     "number_of_paths": 7,
     "number_of_nodes": 440,
     "avg_path_length": 62.86,
-    "runtime_ms": 151.03,
+    "runtime_ms": 147.46,
     "output_svg_size": 4169,
     "status": "ok",
     "backend_used": "potrace"
@@ -79,13 +79,13 @@
   {
     "filename": "img_69dd17f24e8483.80492977.png",
     "mode": "deepicon",
-    "number_of_paths": 108,
-    "number_of_nodes": 432,
-    "avg_path_length": 4.0,
-    "runtime_ms": 132.76,
-    "output_svg_size": 12079,
+    "number_of_paths": 8,
+    "number_of_nodes": 503,
+    "avg_path_length": 62.88,
+    "runtime_ms": 138.45,
+    "output_svg_size": 7454,
     "status": "ok",
-    "backend_used": "fallback_skeleton"
+    "backend_used": "fallback_contour"
   },
   {
     "filename": "img_69dd17f2c97191.42892132.png",
@@ -93,7 +93,7 @@
     "number_of_paths": 15,
     "number_of_nodes": 459,
     "avg_path_length": 30.6,
-    "runtime_ms": 138.45,
+    "runtime_ms": 152.22,
     "output_svg_size": 4171,
     "status": "ok",
     "backend_used": "potrace"
@@ -101,12 +101,12 @@
   {
     "filename": "img_69dd17f2c97191.42892132.png",
     "mode": "deepicon",
-    "number_of_paths": 145,
-    "number_of_nodes": 580,
-    "avg_path_length": 4.0,
-    "runtime_ms": 141.03,
-    "output_svg_size": 16171,
+    "number_of_paths": 15,
+    "number_of_nodes": 816,
+    "avg_path_length": 54.4,
+    "runtime_ms": 138.66,
+    "output_svg_size": 12171,
     "status": "ok",
-    "backend_used": "fallback_skeleton"
+    "backend_used": "fallback_contour"
   }
 ]
