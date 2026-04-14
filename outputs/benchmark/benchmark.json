@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "img_69da169beea686.35684826.png",
+    "backend": "potrace",
+    "speed_ms": 205.39,
+    "node_count": 834,
+    "path_count": 28,
+    "smoothness": 19.9,
+    "duplicate_points": 0,
+    "svg_filesize": 7093
+  },
+  {
+    "filename": "img_69da169beea686.35684826.png",
+    "backend": "fallback_skeleton",
+    "speed_ms": 181.84,
+    "node_count": 836,
+    "path_count": 209,
+    "smoothness": 78.79,
+    "duplicate_points": 0,
+    "svg_filesize": 23439
+  },
+  {
+    "filename": "img_69dd173feae784.45252810.png",
+    "backend": "potrace",
+    "speed_ms": 155.24,
+    "node_count": 1090,
+    "path_count": 22,
+    "smoothness": 15.98,
+    "duplicate_points": 1,
+    "svg_filesize": 9324
+  },
+  {
+    "filename": "img_69dd173feae784.45252810.png",
+    "backend": "fallback_skeleton",
+    "speed_ms": 155.48,
+    "node_count": 2344,
+    "path_count": 586,
+    "smoothness": 68.87,
+    "duplicate_points": 0,
+    "svg_filesize": 65165
+  },
+  {
+    "filename": "img_69dd17f21b7e40.49126754.png",
+    "backend": "potrace",
+    "speed_ms": 141.22,
+    "node_count": 1215,
+    "path_count": 33,
+    "smoothness": 19.85,
+    "duplicate_points": 1,
+    "svg_filesize": 9894
+  },
+  {
+    "filename": "img_69dd17f21b7e40.49126754.png",
+    "backend": "fallback_skeleton",
+    "speed_ms": 148.31,
+    "node_count": 1676,
+    "path_count": 419,
+    "smoothness": 61.55,
+    "duplicate_points": 0,
+    "svg_filesize": 46507
+  },
+  {
+    "filename": "img_69dd17f24e8483.80492977.png",
+    "backend": "potrace",
+    "speed_ms": 135.65,
+    "node_count": 440,
+    "path_count": 7,
+    "smoothness": 13.7,
+    "duplicate_points": 0,
+    "svg_filesize": 4169
+  },
+  {
+    "filename": "img_69dd17f24e8483.80492977.png",
+    "backend": "fallback_skeleton",
+    "speed_ms": 130.24,
+    "node_count": 432,
+    "path_count": 108,
+    "smoothness": 56.06,
+    "duplicate_points": 0,
+    "svg_filesize": 12079
+  },
+  {
+    "filename": "img_69dd17f2c97191.42892132.png",
+    "backend": "potrace",
+    "speed_ms": 136.68,
+    "node_count": 459,
+    "path_count": 15,
+    "smoothness": 18.81,
+    "duplicate_points": 0,
+    "svg_filesize": 4171
+  },
+  {
+    "filename": "img_69dd17f2c97191.42892132.png",
+    "backend": "fallback_skeleton",
+    "speed_ms": 147.07,
+    "node_count": 580,
+    "path_count": 145,
+    "smoothness": 54.51,
+    "duplicate_points": 0,
+    "svg_filesize": 16171
+  }
+]
